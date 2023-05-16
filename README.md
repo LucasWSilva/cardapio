@@ -23,3 +23,5 @@ Se você deseja personalizar o cardápio com seus próprios itens, você pode mo
 - <img src="https://img.shields.io/badge/-CSS3-blue" />
 - <img src="https://img.shields.io/badge/-JavaScript-yellow" />
 
+### Github pages
+https://lucaswsilva.github.io/cardapio/
